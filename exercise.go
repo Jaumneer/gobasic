@@ -28,7 +28,7 @@ func getUserInput(text string) float64 {
 	fmt.Scan(&userInput)
 
 	if userInput <= 0 {
-		fmt.Println("PLEASE INPUT POZİTİFE NUMBERS")
+		fmt.Println("PLEASE INPUT POZITIVE NUMBERS")
 		fmt.Println("--------------------------------")
 		os.Exit(21)
 	}
