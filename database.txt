@@ -1,0 +1,5 @@
+
+Profit: 9.00
+Expenses: 5.00
+Revenue: 15.00
+Tax Rate: 10.00%
